@@ -7,3 +7,5 @@ We have a backtesting script and a live trading bot all implement in python.For 
 
 For the Binance testnet enviroment we use the BinanceFuturesPy.futurespy library.If you want to install it just follow the link https://github.com/morozdima/BinanceFuturesPy !
 
+
+
